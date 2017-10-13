@@ -17,13 +17,6 @@ function createUIFromLoadedProducts() {
     /* Check your console to see that the products are stored in the listOfProducts varible */
     console.log(listOfProducts);
 
-
-
-/* Ny kod*/
-
-
-
-
     /* Add your code here, remember to brake your code in to
     smaller function blocks to reduce complexity and increase readability */
 
